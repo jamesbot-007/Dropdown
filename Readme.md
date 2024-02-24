@@ -1,0 +1,1 @@
+The hover will automatically converted to click event when we open a website in mobile after hosting the website.
